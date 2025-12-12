@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/lg-chatbot-e2e"
+    },
+    {
+      "path": "./apps/lg-chatbot"
+    },
+    {
+      "path": "./apps/lg-cli-e2e"
+    },
+    {
+      "path": "./apps/lg-cli"
+    }
+  ]
+}
