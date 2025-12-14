@@ -1,12 +1,21 @@
-import { getUserName } from "./agents/get-name";
+import { longTermAgentExample } from "./agents/memory/long-term-agent";
+
+const showAllMessages = (result: { messages: any[] }) => {
+  console.log(result.messages.map(msg => msg.content).join("\n\n"));
+}
+
+const showLastMessageWithCount = (result: { messages: any[] }) => {
+  console.log(result.messages.length);
+  console.log(result.messages.at(-1)?.content);
+}
+
+const showResult = (result: any) => {
+  console.log(JSON.stringify(result, null, 2));
+}
 
 async function main() {
 
-  return await getUserName();
+  showAllMessages((await longTermAgentExample()));
 }
 
-main().then(res => {
-  console.log(res);
-  console.log(res.messages.length);
-
-}).catch(console.error);
+main().catch(console.error);
