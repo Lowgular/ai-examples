@@ -4,16 +4,13 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/lg-chatbot-e2e"
-    },
-    {
       "path": "./apps/lg-chatbot"
     },
     {
-      "path": "./apps/lg-cli-e2e"
+      "path": "./apps/lg-cli"
     },
     {
-      "path": "./apps/lg-cli"
+      "path": "./libs/shared"
     }
   ]
 }

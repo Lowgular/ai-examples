@@ -1,4 +1,4 @@
-import { longTermAgentExample } from "./agents/memory/long-term-agent";
+import { semanticSearchExample } from "./tutorials/semantic-search";
 
 const showAllMessages = (result: { messages: any[] }) => {
   console.log(result.messages.map(msg => msg.content).join("\n\n"));
@@ -15,7 +15,7 @@ const showResult = (result: any) => {
 
 async function main() {
 
-  showAllMessages((await longTermAgentExample()));
+  showResult((await semanticSearchExample()));
 }
 
 main().catch(console.error);
