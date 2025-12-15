@@ -1,4 +1,4 @@
-import { semanticSearchExample } from "./tutorials/semantic-search";
+import { ragAgentExample } from "./tutorials/rag-agent";
 
 const showAllMessages = (result: { messages: any[] }) => {
   console.log(result.messages.map(msg => msg.content).join("\n\n"));
@@ -15,7 +15,7 @@ const showResult = (result: any) => {
 
 async function main() {
 
-  showResult((await semanticSearchExample()));
+  showResult((await ragAgentExample()));
 }
 
 main().catch(console.error);

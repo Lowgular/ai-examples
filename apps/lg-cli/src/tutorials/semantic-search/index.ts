@@ -72,11 +72,12 @@ export async function semanticSearchExample() {
       fetchK: 1,
     },
   });
-  
-  const results2 = await retriever.batch([
-    "When was Nike incorporated?",
-    "What was Nike's revenue in 2023?",
-  ]);
 
-  return results2;
+  const results4 = await retriever.invoke("When was Nike incorporated?");
+  // const results4 = await retriever.batch([
+  //   "When was Nike incorporated?",
+  //   "What was Nike's revenue in 2023?",
+  // ]);
+
+  return results4;
 }
