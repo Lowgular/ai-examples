@@ -29,11 +29,9 @@ export class AppService {
         const normalizedFilter = this.normalizeValue(filterValue, classValue);
         const normalizedClass = classValue;
 
-        // String fields: case-insensitive partial match for title/description, exact for others
+        // String fields: case-insensitive partial match for all string properties
         if (typeof normalizedClass === 'string' && typeof normalizedFilter === 'string') {
-          return key === 'title' || key === 'description'
-            ? normalizedClass.toLowerCase().includes(normalizedFilter.toLowerCase())
-            : normalizedClass === normalizedFilter;
+          return normalizedClass.toLowerCase().includes(normalizedFilter.toLowerCase());
         }
 
         // Direct comparison for numbers and booleans
