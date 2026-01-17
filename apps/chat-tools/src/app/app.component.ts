@@ -1,6 +1,8 @@
 import { CommonModule } from '@angular/common';
 import { Component, OnInit, signal } from '@angular/core';
 import { RouterModule } from '@angular/router';
+import { LogTypeDistribution, LogVolumeData } from './models/log.model';
+import { LogService } from './services/log.service';
 
 @Component({
   imports: [RouterModule, CommonModule],
@@ -11,17 +13,35 @@ import { RouterModule } from '@angular/router';
 export class AppComponent implements OnInit {
   isDarkMode = signal(false);
   isChatOpen = signal(false);
+  logVolumeData: LogVolumeData[] = [];
+  logTypes: LogTypeDistribution[] = [];
 
-  // Sample data for log volume chart (24 hours, 12 data points)
-  logVolumeData = [45, 52, 38, 61, 55, 48, 67, 72, 65, 58, 63, 70];
+  constructor(private logService: LogService) {}
 
-  // Log types distribution
-  logTypes = [
-    { name: 'Info', percentage: 65, color: 'bg-blue-500' },
-    { name: 'Warning', percentage: 20, color: 'bg-yellow-500' },
-    { name: 'Error', percentage: 10, color: 'bg-red-500' },
-    { name: 'Debug', percentage: 5, color: 'bg-gray-500' },
-  ];
+  // Get max count for scaling
+  get maxLogCount(): number {
+    if (!this.logVolumeData || this.logVolumeData.length === 0) {
+      return 1;
+    }
+    return Math.max(...this.logVolumeData.map(d => d.count));
+  }
+
+  // Get bar height percentage
+  getBarHeight(count: number): number {
+    const max = this.maxLogCount;
+    if (max === 0) return 0;
+    return (count / max) * 100;
+  }
+
+  // Get bar height in pixels (for 256px container height minus padding)
+  getBarHeightPx(count: number): string {
+    const max = this.maxLogCount;
+    if (max === 0) return '2px';
+    const containerHeight = 200; // Approximate available height (256px - 56px for labels)
+    const height = (count / max) * containerHeight;
+    return Math.max(height, 2) + 'px'; // Minimum 2px to ensure visibility
+  }
+
 
   // Recent logs sample data
   recentLogs = [
@@ -51,6 +71,16 @@ export class AppComponent implements OnInit {
       this.isDarkMode.set(true);
       document.documentElement.classList.add('dark');
     }
+
+    // Load log volume data from service
+    this.logService.getLogVolumeData().subscribe(data => {
+      this.logVolumeData = data;
+    });
+
+    // Load log types distribution from service
+    this.logService.getLogTypes().subscribe(data => {
+      this.logTypes = data;
+    });
   }
 
   toggleTheme() {

@@ -1,0 +1,1990 @@
+{
+  "recentLogs": [
+    {
+      "time": "08:15:22",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "08:14:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "08:13:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "08:12:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "08:11:55",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "08:10:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "08:09:28",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "08:08:15",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Connection pool initialized"
+    },
+    {
+      "time": "08:07:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "08:06:20",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "08:05:10",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "08:04:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "08:03:30",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "08:02:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "08:01:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "07:58:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "07:57:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "07:56:15",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "High memory usage detected"
+    },
+    {
+      "time": "07:55:22",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "07:54:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "07:53:45",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "07:52:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "07:51:18",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache statistics updated"
+    },
+    {
+      "time": "07:50:05",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "09:45:22",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "09:44:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "09:43:30",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Slow query detected"
+    },
+    {
+      "time": "09:42:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "09:41:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "09:40:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "09:39:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "09:38:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "09:37:22",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "09:36:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "09:35:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "09:34:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "09:33:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "09:32:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "09:31:42",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "09:30:20",
+      "level": "ERROR",
+      "service": "worker-service",
+      "message": "Job execution failed"
+    },
+    {
+      "time": "09:29:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "09:28:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "09:27:10",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "09:26:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "09:25:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache statistics updated"
+    },
+    {
+      "time": "09:24:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "09:23:05",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "09:22:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "09:21:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Connection pool initialized"
+    },
+    {
+      "time": "09:20:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "09:19:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "09:18:10",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "09:17:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "09:16:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "09:15:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "09:14:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "09:13:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "09:12:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "09:11:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "09:10:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "09:09:10",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "09:08:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "09:07:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "09:06:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "09:05:05",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "09:04:42",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "09:03:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "09:02:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "09:01:33",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "09:00:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "07:30:40",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "07:29:25",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "07:28:12",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "07:27:45",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Connection pool initialized"
+    },
+    {
+      "time": "07:26:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "High memory usage detected"
+    },
+    {
+      "time": "07:25:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "07:24:05",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "07:23:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "07:22:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "07:21:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "07:20:33",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "07:19:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "07:18:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "07:17:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "07:16:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "07:15:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache statistics updated"
+    },
+    {
+      "time": "07:14:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "07:13:30",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "07:12:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "07:11:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "07:10:10",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "07:09:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "07:08:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "07:07:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "07:06:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "07:05:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "07:04:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "07:03:15",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "07:02:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "07:01:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "07:00:12",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "High memory usage detected"
+    },
+    {
+      "time": "06:45:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "06:44:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "06:43:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Connection pool initialized"
+    },
+    {
+      "time": "06:42:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "06:41:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "06:40:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "06:39:33",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "06:38:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "06:37:45",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "06:36:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "06:35:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "06:34:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "06:33:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "06:32:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "06:31:15",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "06:30:40",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "18:45:22",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "18:44:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "18:43:30",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "18:42:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "18:41:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "18:40:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "18:39:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "18:38:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "18:37:22",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "18:36:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "18:35:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "18:34:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "18:33:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "18:32:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "18:31:42",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "18:30:20",
+      "level": "ERROR",
+      "service": "worker-service",
+      "message": "Job execution failed"
+    },
+    {
+      "time": "18:29:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "18:28:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "18:27:10",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "18:26:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "18:25:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache statistics updated"
+    },
+    {
+      "time": "18:24:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "18:23:05",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "18:22:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "18:21:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Connection pool initialized"
+    },
+    {
+      "time": "18:20:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "18:19:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "18:18:10",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "18:17:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "18:16:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "18:15:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "18:14:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "18:13:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "18:12:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "18:11:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "18:10:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "18:09:10",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "18:08:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "18:07:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "18:06:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "18:05:05",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "18:04:42",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "18:03:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "18:02:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "18:01:33",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "18:00:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "19:45:22",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "19:44:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "19:43:30",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Slow query detected"
+    },
+    {
+      "time": "19:42:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "19:41:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "19:40:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "19:39:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "19:38:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "19:37:22",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "19:36:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "19:35:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "19:34:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "19:33:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "19:32:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "19:31:42",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "19:30:20",
+      "level": "ERROR",
+      "service": "worker-service",
+      "message": "Job execution failed"
+    },
+    {
+      "time": "19:29:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "19:28:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "19:27:10",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "19:26:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "19:25:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache statistics updated"
+    },
+    {
+      "time": "19:24:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "19:23:05",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "19:22:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "19:21:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Connection pool initialized"
+    },
+    {
+      "time": "19:20:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "19:19:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "19:18:10",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "19:17:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "19:16:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "19:15:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "19:14:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "19:13:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "19:12:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "19:11:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "19:10:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "19:09:10",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "19:08:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "19:07:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "19:06:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "19:05:05",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "19:04:42",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "19:03:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "19:02:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "19:01:33",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "19:00:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "20:45:22",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "20:44:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "20:43:30",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "20:42:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "20:41:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "20:40:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "20:39:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "20:38:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "20:37:22",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "20:36:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "20:35:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "20:34:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "20:33:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "20:32:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "20:31:42",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "20:30:20",
+      "level": "ERROR",
+      "service": "worker-service",
+      "message": "Job execution failed"
+    },
+    {
+      "time": "20:29:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "20:28:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "20:27:10",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "20:26:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "20:25:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache statistics updated"
+    },
+    {
+      "time": "20:24:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "20:23:05",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "20:22:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "20:21:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Connection pool initialized"
+    },
+    {
+      "time": "20:20:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "20:19:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "20:18:10",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "20:17:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "20:16:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "20:15:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "20:14:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "20:13:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "20:12:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "20:11:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "20:10:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "20:09:10",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "20:08:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "20:07:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "20:06:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "20:05:05",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "20:04:42",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "20:03:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "20:02:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "20:01:33",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "20:00:18",
+      "level": "ERROR",
+      "service": "worker-service",
+      "message": "Task queue overflow"
+    },
+    {
+      "time": "17:30:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "17:29:25",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "17:28:12",
+      "level": "WARN",
+      "service": "cache-service",
+      "message": "Memory pressure detected"
+    },
+    {
+      "time": "17:27:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "17:26:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background task completed"
+    },
+    {
+      "time": "17:25:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "17:24:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache statistics updated"
+    },
+    {
+      "time": "17:23:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "17:22:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "17:21:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "17:20:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "17:19:10",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "17:18:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "17:17:30",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "17:16:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "17:15:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "17:14:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "17:13:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "17:12:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "17:11:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "17:10:10",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed successfully"
+    },
+    {
+      "time": "17:09:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "17:08:30",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "17:07:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "17:06:05",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "17:05:42",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "17:04:30",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Connection pool initialized"
+    },
+    {
+      "time": "17:03:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "17:02:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "17:01:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "17:00:50",
+      "level": "WARN",
+      "service": "cache-service",
+      "message": "Memory pressure detected"
+    },
+    {
+      "time": "10:15:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "10:14:20",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "10:13:45",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "10:12:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "10:11:18",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "10:10:05",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API request processed"
+    },
+    {
+      "time": "10:09:42",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "10:08:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "10:07:15",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "10:06:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "10:05:10",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "10:04:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "10:03:30",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache warming completed"
+    },
+    {
+      "time": "10:02:18",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "10:01:05",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "10:00:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User session created"
+    },
+    {
+      "time": "14:32:15",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User authentication successful"
+    },
+    {
+      "time": "14:31:42",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Connection pool at 80% capacity"
+    },
+    {
+      "time": "14:30:18",
+      "level": "ERROR",
+      "service": "cache-service",
+      "message": "Failed to connect to Redis cluster"
+    },
+    {
+      "time": "14:29:55",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed in 45ms"
+    },
+    {
+      "time": "14:28:33",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background job completed successfully"
+    },
+    {
+      "time": "14:27:12",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit approaching threshold"
+    },
+    {
+      "time": "14:26:08",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Query executed in 12ms"
+    },
+    {
+      "time": "14:25:41",
+      "level": "ERROR",
+      "service": "api-service",
+      "message": "Invalid request payload received"
+    },
+    {
+      "time": "14:24:33",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "14:23:19",
+      "level": "DEBUG",
+      "service": "worker-service",
+      "message": "Processing queue item #1234"
+    },
+    {
+      "time": "14:22:05",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database connection established"
+    },
+    {
+      "time": "14:21:48",
+      "level": "WARN",
+      "service": "cache-service",
+      "message": "Cache miss rate increased to 15%"
+    },
+    {
+      "time": "14:20:32",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "API endpoint /users accessed"
+    },
+    {
+      "time": "14:19:15",
+      "level": "ERROR",
+      "service": "db-service",
+      "message": "Query timeout after 30 seconds"
+    },
+    {
+      "time": "14:18:02",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled task completed"
+    },
+    {
+      "time": "13:45:22",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Request processed successfully"
+    },
+    {
+      "time": "12:30:10",
+      "level": "WARN",
+      "service": "db-service",
+      "message": "Slow query detected"
+    },
+    {
+      "time": "11:15:33",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache hit rate improved"
+    },
+    {
+      "time": "15:30:30",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "User logged in"
+    },
+    {
+      "time": "16:45:15",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Background task completed"
+    },
+    {
+      "time": "00:30:20",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Nightly job started"
+    },
+    {
+      "time": "01:15:45",
+      "level": "INFO",
+      "service": "api-service",
+      "message": "Health check passed"
+    },
+    {
+      "time": "02:30:10",
+      "level": "WARN",
+      "service": "cache-service",
+      "message": "Cache eviction triggered"
+    },
+    {
+      "time": "03:45:22",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Backup process completed"
+    },
+    {
+      "time": "04:00:33",
+      "level": "DEBUG",
+      "service": "api-service",
+      "message": "Debug mode enabled"
+    },
+    {
+      "time": "05:15:18",
+      "level": "INFO",
+      "service": "worker-service",
+      "message": "Scheduled maintenance started"
+    },
+    {
+      "time": "21:10:55",
+      "level": "INFO",
+      "service": "cache-service",
+      "message": "Cache statistics updated"
+    },
+    {
+      "time": "22:20:33",
+      "level": "WARN",
+      "service": "api-service",
+      "message": "Rate limit warning"
+    },
+    {
+      "time": "23:45:12",
+      "level": "INFO",
+      "service": "db-service",
+      "message": "Database optimization completed"
+    }
+  ]
+}
