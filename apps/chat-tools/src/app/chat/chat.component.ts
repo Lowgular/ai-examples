@@ -74,7 +74,7 @@ export class ChatComponent {
   
   // Track if we're currently processing a message to avoid duplicate calls
   private isProcessing = false;
-  private readonly model = 'functiongemma-tools:270m';
+  private readonly model = 'functiongemma:270m';
   
   toggleChat() {
     this.isChatOpen.update(open => !open);
@@ -113,7 +113,7 @@ export class ChatComponent {
       { role: 'user', content: userMessage }
     ];
     
-    this.ollamaService.chat(this.model, messages, this.tools).subscribe({
+    this.ollamaService.chatWithTools(this.model, messages, this.tools).subscribe({
       next: (response) => {
         console.log('Response:', response.message);
         

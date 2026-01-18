@@ -70,16 +70,13 @@ export class OllamaService {
     );
   }
 
-  chat(model: string, messages: Message[], tools: any[], options: { temperature: number } = { temperature: 0 }): Observable<OllamaChatResponse> {
+  chatWithTools(model: string, messages: Message[], tools: any[], options: { temperature: number } = { temperature: 0 }): Observable<OllamaChatResponse> {
     return this.http.post<OllamaChatResponse>(this.ollamaUrl + '/chat', {
       model,
       messages,
       tools,
       stream: false,
-      format: 'json',
       options,
-    }, {
-      headers: { 'Content-Type': 'application/json' },
     })
   }
 }
