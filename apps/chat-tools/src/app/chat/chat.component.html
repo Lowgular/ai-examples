@@ -32,7 +32,7 @@ class="fixed bottom-24 right-6 w-96 h-[500px] bg-white dark:bg-gray-800 rounded-
 </div>
 
 <!-- Chat Messages -->
-<div class="flex-1 overflow-y-auto p-4 space-y-4">
+<div #messagesContainer class="flex-1 overflow-y-auto p-4 space-y-4">
   @for (message of chatMessages(); track $index) {
     <div class="flex" [ngClass]="message.type === 'user' ? 'justify-end' : 'justify-start'">
       <div class="max-w-[80%]" [ngClass]="message.type === 'user' ? 'bg-blue-600 text-white' : 'bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white'">

@@ -22,7 +22,3 @@ export interface LogStats {
   warnings: number;
   successRate: number;
 }
-
-export interface LogsResponse {
-  recentLogs: LogEntry[];
-}

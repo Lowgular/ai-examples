@@ -1,19 +1,16 @@
 import { CommonModule } from "@angular/common";
-import { Component, computed, inject, Signal } from "@angular/core";
-import { toSignal } from "@angular/core/rxjs-interop";
-import { LogEntry, LogStats, LogTypeDistribution, LogVolumeData } from "./log.model";
-import { LogService } from "./log.service";
+import { Component, computed, inject } from "@angular/core";
+import { LogEntry } from "./log.model";
+import { LogsState } from "./logs.state";
 
 @Component({selector: 'app-logs', templateUrl: './logs.component.html', imports: [CommonModule]})
 export class LogsComponent {
-  private readonly logService = inject(LogService);
+  protected readonly logsState = inject(LogsState);
 
-  protected readonly logVolumeData: Signal<LogVolumeData[]> = toSignal(this.logService.getLogVolumeData(), { initialValue: [] })
-  protected readonly logTypes: Signal<LogTypeDistribution[]> = toSignal(this.logService.getLogTypes(), { initialValue: [] })
-  protected readonly recentLogs: Signal<LogEntry[]> = toSignal(this.logService.getLastLogs(10), { initialValue: [] })
-  protected readonly stats: Signal<LogStats> = toSignal(this.logService.getStats(), { 
-    initialValue: { totalLogs: 0, errors: 0, warnings: 0, successRate: 0 } 
-  })
+  protected readonly logVolumeData = this.logsState.logVolumeData;
+  protected readonly logTypes = this.logsState.logTypes;
+  protected readonly recentLogs = this.logsState.recentLogs;
+  protected readonly stats = this.logsState.stats;
 
   protected readonly maxLogCount = computed(() => {
     return Math.max(...this.logVolumeData().map(d => d.count));

@@ -1,1990 +1,1988 @@
-{
-  "recentLogs": [
-    {
-      "timestamp": 1768693512000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database optimization completed"
-    },
-    {
-      "timestamp": 1768688433000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit warning"
-    },
-    {
-      "timestamp": 1768684255000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache statistics updated"
-    },
-    {
-      "timestamp": 1768682722000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768682650000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768682610000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768682538000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768682465000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768682442000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768682370000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768682295000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768682242000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768682170000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768682145000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768682070000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768681998000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768681925000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768681902000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768681820000,
-      "level": "ERROR",
-      "service": "worker-service",
-      "message": "Job execution failed"
-    },
-    {
-      "timestamp": 1768681755000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768681713000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768681630000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768681605000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768681530000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache statistics updated"
-    },
-    {
-      "timestamp": 1768681458000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768681385000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768681362000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768681290000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Connection pool initialized"
-    },
-    {
-      "timestamp": 1768681215000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768681173000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768681090000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768681065000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768680990000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768680918000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768680845000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768680822000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768680750000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768680675000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768680633000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768680550000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768680525000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768680450000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768680378000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768680305000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768680282000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768680210000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768680135000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768680093000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768680018000,
-      "level": "ERROR",
-      "service": "worker-service",
-      "message": "Task queue overflow"
-    },
-    {
-      "timestamp": 1768679122000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768679050000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768679010000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Slow query detected"
-    },
-    {
-      "timestamp": 1768678938000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768678865000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768678842000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768678770000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768678695000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768678642000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768678570000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768678545000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768678470000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768678398000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768678325000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768678302000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768678220000,
-      "level": "ERROR",
-      "service": "worker-service",
-      "message": "Job execution failed"
-    },
-    {
-      "timestamp": 1768678155000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768678113000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768678030000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768678005000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768677930000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache statistics updated"
-    },
-    {
-      "timestamp": 1768677858000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768677785000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768677762000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768677690000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Connection pool initialized"
-    },
-    {
-      "timestamp": 1768677615000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768677573000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768677490000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768677465000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768677390000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768677318000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768677245000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768677222000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768677150000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768677075000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768677033000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768676950000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768676925000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768676850000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768676778000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768676705000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768676682000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768676610000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768676535000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768676493000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768676410000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768675522000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768675450000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768675410000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768675338000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768675265000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768675242000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768675170000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768675095000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768675042000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768674970000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768674945000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768674870000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768674798000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768674725000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768674702000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768674620000,
-      "level": "ERROR",
-      "service": "worker-service",
-      "message": "Job execution failed"
-    },
-    {
-      "timestamp": 1768674555000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768674513000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768674430000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768674405000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768674330000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache statistics updated"
-    },
-    {
-      "timestamp": 1768674258000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768674185000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768674162000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768674090000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Connection pool initialized"
-    },
-    {
-      "timestamp": 1768674015000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768673973000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768673890000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768673865000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768673790000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768673718000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768673645000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768673622000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768673550000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768673475000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768673433000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768673350000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768673325000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768673250000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768673178000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768673105000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768673082000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768673010000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768672935000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768672893000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768672810000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768671042000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768670965000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768670892000,
-      "level": "WARN",
-      "service": "cache-service",
-      "message": "Memory pressure detected"
-    },
-    {
-      "timestamp": 1768670865000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768670790000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background task completed"
-    },
-    {
-      "timestamp": 1768670718000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768670645000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache statistics updated"
-    },
-    {
-      "timestamp": 1768670622000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768670550000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768670475000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768670433000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768670350000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768670325000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768670250000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768670178000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768670105000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768670082000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768670010000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768669935000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768669893000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768669810000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768669785000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768669710000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768669638000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768669565000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768669542000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768669470000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Connection pool initialized"
-    },
-    {
-      "timestamp": 1768669395000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768669353000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768669270000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768669250000,
-      "level": "WARN",
-      "service": "cache-service",
-      "message": "Memory pressure detected"
-    },
-    {
-      "timestamp": 1768668315000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background task completed"
-    },
-    {
-      "timestamp": 1768663830000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768660335000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768660302000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768660218000,
-      "level": "ERROR",
-      "service": "cache-service",
-      "message": "Failed to connect to Redis cluster"
-    },
-    {
-      "timestamp": 1768660195000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768660113000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768660032000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768659968000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768659941000,
-      "level": "ERROR",
-      "service": "api-service",
-      "message": "Invalid request payload received"
-    },
-    {
-      "timestamp": 1768659873000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768659799000,
-      "level": "DEBUG",
-      "service": "worker-service",
-      "message": "Processing queue item #1234"
-    },
-    {
-      "timestamp": 1768659725000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768659708000,
-      "level": "WARN",
-      "service": "cache-service",
-      "message": "Cache miss rate increased to 15%"
-    },
-    {
-      "timestamp": 1768659632000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768659555000,
-      "level": "ERROR",
-      "service": "db-service",
-      "message": "Query timeout after 30 seconds"
-    },
-    {
-      "timestamp": 1768659482000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768657522000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768653010000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Slow query detected"
-    },
-    {
-      "timestamp": 1768648533000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768644933000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768644860000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768644825000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768644750000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768644678000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768644605000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768644582000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768644510000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768644435000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768644393000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768644310000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768644285000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768644210000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768644138000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768644065000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768644045000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768643122000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768643050000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768643010000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Slow query detected"
-    },
-    {
-      "timestamp": 1768642938000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768642865000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768642842000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768642770000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768642695000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768642642000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768642570000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768642545000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768642470000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768642398000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768642325000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768642302000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768642220000,
-      "level": "ERROR",
-      "service": "worker-service",
-      "message": "Job execution failed"
-    },
-    {
-      "timestamp": 1768642155000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768642113000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768642030000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768642005000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768641930000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache statistics updated"
-    },
-    {
-      "timestamp": 1768641858000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768641785000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768641762000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768641690000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Connection pool initialized"
-    },
-    {
-      "timestamp": 1768641615000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768641573000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768641490000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768641465000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768641390000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768641318000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768641245000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768641222000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768641150000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768641075000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768641033000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768640950000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768640925000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768640850000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768640778000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768640705000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768640682000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768640610000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768640535000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768640493000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768640410000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768637722000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768637685000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768637610000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768637538000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768637515000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "Rate limit approaching threshold"
-    },
-    {
-      "timestamp": 1768637442000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768637368000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768637295000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Connection pool initialized"
-    },
-    {
-      "timestamp": 1768637253000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768637180000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768637110000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768637085000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768637010000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768636938000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768636865000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768636722000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768636650000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768636575000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "High memory usage detected"
-    },
-    {
-      "timestamp": 1768636522000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768636450000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768636425000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768636350000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768636278000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache statistics updated"
-    },
-    {
-      "timestamp": 1768636205000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768635040000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768634965000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768634892000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768634865000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Connection pool initialized"
-    },
-    {
-      "timestamp": 1768634790000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "High memory usage detected"
-    },
-    {
-      "timestamp": 1768634718000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768634645000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768634622000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768634550000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768634475000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768634433000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768634350000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768634325000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768634250000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768634178000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768634105000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache statistics updated"
-    },
-    {
-      "timestamp": 1768634082000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768634010000,
-      "level": "WARN",
-      "service": "db-service",
-      "message": "Connection pool at 80% capacity"
-    },
-    {
-      "timestamp": 1768633935000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768633893000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768633810000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Database connection established"
-    },
-    {
-      "timestamp": 1768633785000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768633710000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768633638000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768633565000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768633542000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768633470000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768633395000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed successfully"
-    },
-    {
-      "timestamp": 1768633353000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768633270000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768633212000,
-      "level": "WARN",
-      "service": "api-service",
-      "message": "High memory usage detected"
-    },
-    {
-      "timestamp": 1768632330000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768632258000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed in 45ms"
-    },
-    {
-      "timestamp": 1768632185000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Connection pool initialized"
-    },
-    {
-      "timestamp": 1768632162000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User logged in"
-    },
-    {
-      "timestamp": 1768632090000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768632015000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API request processed"
-    },
-    {
-      "timestamp": 1768631973000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled task completed"
-    },
-    {
-      "timestamp": 1768631890000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768631865000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Query executed in 12ms"
-    },
-    {
-      "timestamp": 1768631790000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User session created"
-    },
-    {
-      "timestamp": 1768631718000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Request processed successfully"
-    },
-    {
-      "timestamp": 1768631645000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache hit rate improved"
-    },
-    {
-      "timestamp": 1768631622000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "API endpoint /users accessed"
-    },
-    {
-      "timestamp": 1768631550000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "User authentication successful"
-    },
-    {
-      "timestamp": 1768631475000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Background job completed successfully"
-    },
-    {
-      "timestamp": 1768631440000,
-      "level": "INFO",
-      "service": "cache-service",
-      "message": "Cache warming completed"
-    },
-    {
-      "timestamp": 1768626918000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Scheduled maintenance started"
-    },
-    {
-      "timestamp": 1768622433000,
-      "level": "DEBUG",
-      "service": "api-service",
-      "message": "Debug mode enabled"
-    },
-    {
-      "timestamp": 1768621522000,
-      "level": "INFO",
-      "service": "db-service",
-      "message": "Backup process completed"
-    },
-    {
-      "timestamp": 1768617010000,
-      "level": "WARN",
-      "service": "cache-service",
-      "message": "Cache eviction triggered"
-    },
-    {
-      "timestamp": 1768612545000,
-      "level": "INFO",
-      "service": "api-service",
-      "message": "Health check passed"
-    },
-    {
-      "timestamp": 1768609820000,
-      "level": "INFO",
-      "service": "worker-service",
-      "message": "Nightly job started"
-    }
-  ]
-}
+[
+  {
+    "timestamp": 1768693512000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database optimization completed"
+  },
+  {
+    "timestamp": 1768688433000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit warning"
+  },
+  {
+    "timestamp": 1768684255000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache statistics updated"
+  },
+  {
+    "timestamp": 1768682722000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768682650000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768682610000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768682538000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768682465000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768682442000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768682370000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768682295000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768682242000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768682170000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768682145000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768682070000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768681998000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768681925000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768681902000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768681820000,
+    "level": "ERROR",
+    "service": "worker-service",
+    "message": "Job execution failed"
+  },
+  {
+    "timestamp": 1768681755000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768681713000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768681630000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768681605000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768681530000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache statistics updated"
+  },
+  {
+    "timestamp": 1768681458000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768681385000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768681362000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768681290000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Connection pool initialized"
+  },
+  {
+    "timestamp": 1768681215000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768681173000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768681090000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768681065000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768680990000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768680918000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768680845000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768680822000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768680750000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768680675000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768680633000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768680550000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768680525000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768680450000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768680378000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768680305000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768680282000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768680210000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768680135000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768680093000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768680018000,
+    "level": "ERROR",
+    "service": "worker-service",
+    "message": "Task queue overflow"
+  },
+  {
+    "timestamp": 1768679122000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768679050000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768679010000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Slow query detected"
+  },
+  {
+    "timestamp": 1768678938000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768678865000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768678842000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768678770000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768678695000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768678642000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768678570000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768678545000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768678470000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768678398000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768678325000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768678302000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768678220000,
+    "level": "ERROR",
+    "service": "worker-service",
+    "message": "Job execution failed"
+  },
+  {
+    "timestamp": 1768678155000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768678113000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768678030000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768678005000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768677930000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache statistics updated"
+  },
+  {
+    "timestamp": 1768677858000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768677785000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768677762000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768677690000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Connection pool initialized"
+  },
+  {
+    "timestamp": 1768677615000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768677573000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768677490000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768677465000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768677390000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768677318000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768677245000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768677222000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768677150000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768677075000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768677033000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768676950000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768676925000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768676850000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768676778000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768676705000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768676682000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768676610000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768676535000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768676493000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768676410000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768675522000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768675450000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768675410000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768675338000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768675265000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768675242000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768675170000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768675095000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768675042000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768674970000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768674945000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768674870000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768674798000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768674725000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768674702000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768674620000,
+    "level": "ERROR",
+    "service": "worker-service",
+    "message": "Job execution failed"
+  },
+  {
+    "timestamp": 1768674555000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768674513000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768674430000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768674405000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768674330000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache statistics updated"
+  },
+  {
+    "timestamp": 1768674258000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768674185000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768674162000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768674090000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Connection pool initialized"
+  },
+  {
+    "timestamp": 1768674015000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768673973000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768673890000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768673865000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768673790000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768673718000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768673645000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768673622000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768673550000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768673475000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768673433000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768673350000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768673325000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768673250000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768673178000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768673105000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768673082000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768673010000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768672935000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768672893000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768672810000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768671042000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768670965000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768670892000,
+    "level": "WARN",
+    "service": "cache-service",
+    "message": "Memory pressure detected"
+  },
+  {
+    "timestamp": 1768670865000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768670790000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background task completed"
+  },
+  {
+    "timestamp": 1768670718000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768670645000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache statistics updated"
+  },
+  {
+    "timestamp": 1768670622000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768670550000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768670475000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768670433000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768670350000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768670325000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768670250000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768670178000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768670105000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768670082000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768670010000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768669935000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768669893000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768669810000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768669785000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768669710000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768669638000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768669565000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768669542000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768669470000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Connection pool initialized"
+  },
+  {
+    "timestamp": 1768669395000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768669353000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768669270000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768669250000,
+    "level": "WARN",
+    "service": "cache-service",
+    "message": "Memory pressure detected"
+  },
+  {
+    "timestamp": 1768668315000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background task completed"
+  },
+  {
+    "timestamp": 1768663830000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768660335000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768660302000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768660218000,
+    "level": "ERROR",
+    "service": "cache-service",
+    "message": "Failed to connect to Redis cluster"
+  },
+  {
+    "timestamp": 1768660195000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768660113000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768660032000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768659968000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768659941000,
+    "level": "ERROR",
+    "service": "api-service",
+    "message": "Invalid request payload received"
+  },
+  {
+    "timestamp": 1768659873000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768659799000,
+    "level": "DEBUG",
+    "service": "worker-service",
+    "message": "Processing queue item #1234"
+  },
+  {
+    "timestamp": 1768659725000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768659708000,
+    "level": "WARN",
+    "service": "cache-service",
+    "message": "Cache miss rate increased to 15%"
+  },
+  {
+    "timestamp": 1768659632000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768659555000,
+    "level": "ERROR",
+    "service": "db-service",
+    "message": "Query timeout after 30 seconds"
+  },
+  {
+    "timestamp": 1768659482000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768657522000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768653010000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Slow query detected"
+  },
+  {
+    "timestamp": 1768648533000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768644933000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768644860000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768644825000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768644750000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768644678000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768644605000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768644582000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768644510000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768644435000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768644393000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768644310000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768644285000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768644210000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768644138000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768644065000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768644045000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768643122000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768643050000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768643010000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Slow query detected"
+  },
+  {
+    "timestamp": 1768642938000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768642865000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768642842000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768642770000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768642695000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768642642000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768642570000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768642545000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768642470000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768642398000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768642325000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768642302000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768642220000,
+    "level": "ERROR",
+    "service": "worker-service",
+    "message": "Job execution failed"
+  },
+  {
+    "timestamp": 1768642155000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768642113000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768642030000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768642005000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768641930000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache statistics updated"
+  },
+  {
+    "timestamp": 1768641858000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768641785000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768641762000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768641690000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Connection pool initialized"
+  },
+  {
+    "timestamp": 1768641615000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768641573000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768641490000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768641465000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768641390000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768641318000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768641245000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768641222000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768641150000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768641075000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768641033000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768640950000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768640925000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768640850000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768640778000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768640705000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768640682000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768640610000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768640535000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768640493000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768640410000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768637722000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768637685000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768637610000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768637538000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768637515000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "Rate limit approaching threshold"
+  },
+  {
+    "timestamp": 1768637442000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768637368000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768637295000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Connection pool initialized"
+  },
+  {
+    "timestamp": 1768637253000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768637180000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768637110000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768637085000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768637010000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768636938000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768636865000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768636722000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768636650000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768636575000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "High memory usage detected"
+  },
+  {
+    "timestamp": 1768636522000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768636450000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768636425000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768636350000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768636278000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache statistics updated"
+  },
+  {
+    "timestamp": 1768636205000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768635040000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768634965000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768634892000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768634865000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Connection pool initialized"
+  },
+  {
+    "timestamp": 1768634790000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "High memory usage detected"
+  },
+  {
+    "timestamp": 1768634718000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768634645000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768634622000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768634550000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768634475000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768634433000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768634350000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768634325000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768634250000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768634178000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768634105000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache statistics updated"
+  },
+  {
+    "timestamp": 1768634082000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768634010000,
+    "level": "WARN",
+    "service": "db-service",
+    "message": "Connection pool at 80% capacity"
+  },
+  {
+    "timestamp": 1768633935000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768633893000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768633810000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Database connection established"
+  },
+  {
+    "timestamp": 1768633785000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768633710000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768633638000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768633565000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768633542000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768633470000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768633395000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed successfully"
+  },
+  {
+    "timestamp": 1768633353000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768633270000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768633212000,
+    "level": "WARN",
+    "service": "api-service",
+    "message": "High memory usage detected"
+  },
+  {
+    "timestamp": 1768632330000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768632258000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed in 45ms"
+  },
+  {
+    "timestamp": 1768632185000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Connection pool initialized"
+  },
+  {
+    "timestamp": 1768632162000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User logged in"
+  },
+  {
+    "timestamp": 1768632090000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768632015000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API request processed"
+  },
+  {
+    "timestamp": 1768631973000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled task completed"
+  },
+  {
+    "timestamp": 1768631890000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768631865000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Query executed in 12ms"
+  },
+  {
+    "timestamp": 1768631790000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User session created"
+  },
+  {
+    "timestamp": 1768631718000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Request processed successfully"
+  },
+  {
+    "timestamp": 1768631645000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache hit rate improved"
+  },
+  {
+    "timestamp": 1768631622000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "API endpoint /users accessed"
+  },
+  {
+    "timestamp": 1768631550000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "User authentication successful"
+  },
+  {
+    "timestamp": 1768631475000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Background job completed successfully"
+  },
+  {
+    "timestamp": 1768631440000,
+    "level": "INFO",
+    "service": "cache-service",
+    "message": "Cache warming completed"
+  },
+  {
+    "timestamp": 1768626918000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Scheduled maintenance started"
+  },
+  {
+    "timestamp": 1768622433000,
+    "level": "DEBUG",
+    "service": "api-service",
+    "message": "Debug mode enabled"
+  },
+  {
+    "timestamp": 1768621522000,
+    "level": "INFO",
+    "service": "db-service",
+    "message": "Backup process completed"
+  },
+  {
+    "timestamp": 1768617010000,
+    "level": "WARN",
+    "service": "cache-service",
+    "message": "Cache eviction triggered"
+  },
+  {
+    "timestamp": 1768612545000,
+    "level": "INFO",
+    "service": "api-service",
+    "message": "Health check passed"
+  },
+  {
+    "timestamp": 1768609820000,
+    "level": "INFO",
+    "service": "worker-service",
+    "message": "Nightly job started"
+  }
+]

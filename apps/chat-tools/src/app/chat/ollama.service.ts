@@ -20,6 +20,8 @@ interface OllamaGenerateResponse<T> {
 export interface Message {
   role: string;
   content: string;
+  tool_calls?: ToolCall[];
+  name?: string;
 }
 
 export interface ToolCall {
