@@ -3,8 +3,8 @@ import { initChatModel } from "langchain";
 export async function checkReasoning() {
   // const modelName = 'openai:gpt-4.1';
   // const modelName = 'ollama:qwen2.5:latest';
-  // const modelName = 'ollama:deepseek-r1:8b';
-  const modelName = 'ollama:smollm2:135m';
+  const modelName = 'ollama:deepseek-r1:8b';
+  // const modelName = 'ollama:smollm2:135m';
   const systemPrompt = `
   You are a calculator. Your role is to calculate the result of the user question.
 

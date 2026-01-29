@@ -56,7 +56,7 @@ export async function simpleRagExample() {
   const agent = createAgent({
     // model: "claude-sonnet-4-0",
     // model: "ollama:gpt-oss:20b",
-    model: "ollama:qwen3:0.6B",
+    model: "ollama:llama3.2:3b",
     tools,  
     systemPrompt,  
     name: "Agentic RAG",

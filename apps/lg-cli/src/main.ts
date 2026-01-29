@@ -1,4 +1,4 @@
-import { checkReasoning } from "./examples/reasoning";
+import { reflectionExample } from './agents/reflection';
 
 const showAllMessages = (result: { messages: any[] }) => {
   console.log(result.messages.map(msg => msg.content).join("\n\n"));
@@ -15,7 +15,7 @@ const showResult = (result: any) => {
 
 async function main() {
 
-  const resp = (await checkReasoning())
+  const resp = (await reflectionExample())
   showResult(resp);
 
   // fs.writeFileSync('response.md', `${resp.content}`);

@@ -1,5 +1,5 @@
 import { Command, MemorySaver } from "@langchain/langgraph";
-import { createAgent, humanInTheLoopMiddleware, tool } from "langchain";
+import { createAgent, humanInTheLoopMiddleware, initChatModel, tool } from "langchain";
 
 export async function humanInTheLoopExample() {
 const searchTool = tool(
@@ -10,8 +10,10 @@ const searchTool = tool(
   }
 );
 
+const model = await initChatModel('ollama:llama3.2:3b');
+
 const agent = createAgent({
-  model: "ollama:qwen3:0.6B",
+  model,
   systemPrompt: `You are a helpful assistant.
   You have access to the search tool.
   You must use the search tool to find the files.
